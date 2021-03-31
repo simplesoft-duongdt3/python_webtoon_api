@@ -25,3 +25,5 @@ if __name__ == '__main__':
 # python manage.py runserver 8080
 
 # https://www.django-rest-framework.org/
+# https://github.com/django-stars/backend-skeleton
+# https://djangostars.com/blog/rest-apis-django-development/
